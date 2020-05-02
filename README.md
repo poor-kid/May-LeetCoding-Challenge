@@ -1,22 +1,20 @@
-![Coding](https://www.google.com/url?sa=i&url=https%3A%2F%2Fquotefancy.com%2Fprogramming-quotes&psig=AOvVaw30hVYBlZ-H31PaZY8YLpAs&ust=1588496051877000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjmzJnnlOkCFQAAAAAdAAAAABAJ)
 
-# 30-Day-LeetCoding-Challenge
-Solutions to every question in the [30 Day LeetCoding challenge](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge)  
+# May-LeetCoding-Challenge
+Solutions to every question in the [May 31 Day LeetCoding challenge](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/)  
 
 
 Introduction
 ============
 Hi guys!   
-Lockdown gave me ample time to get started with solving some question on Leetcode.
-I have started with the 30 day Leetcode challenge.  
-As an exercise, I am also uploading the solutions to these questions (best to my knowledge).
-Go ahead, take a look!
+Lockdown gave me an ample time to participate in May LeetCoding Challenge on Leetcode.
+I have chosen C++ as my preferable language. I will be uploading the solutions to these questions (best to my knowledge).
+
 
 Week 1
 ------
-- **Single Number**   
-  [Leetcode URL](https://leetcode.com/problems/single-number/)    
-  [Solution](https://github.com/akashgovind95/30-Day-LeetCoding-Challenge/blob/master/Week%201/SingleNumber.cpp)  
+- **First Bad version**   
+  [Leetcode URL](https://leetcode.com/problems/first-bad-version/)    
+  [Solution](https://github.com/poor-kid/May-LeetCoding-Challenge/blob/master/Week%201/FirstBadVersion.cpp)  
 
 
 
