@@ -15,5 +15,6 @@ Week 1
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/) | [C++](https://github.com/poor-kid/May-LeetCoding-Challenge/blob/master/Week%201/FirstBadVersion.cpp)|Easy|
+|771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [C++](https://github.com/poor-kid/May-LeetCoding-Challenge/blob/master/Week%201/Jewels_and_Stones.cpp)|Easy|
 
 
