@@ -1,6 +1,6 @@
 
 # May-LeetCoding-Challenge
-Solutions to every question in the [May 31 Day LeetCoding challenge](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/)  
+Solutions to every question in the [May LeetCoding challenge](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/)  
 
 
 Introduction
@@ -12,9 +12,8 @@ I have chosen C++ as my preferable language. I will be uploading the solutions t
 
 Week 1
 ------
-- **First Bad version**   
-  [First Bad Version](https://leetcode.com/problems/first-bad-version/)    
-  [Solution](https://github.com/poor-kid/May-LeetCoding-Challenge/blob/master/Week%201/FirstBadVersion.cpp)  
-
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|278|[First Bad Version](https://leetcode.com/problems/first-bad-version/) | [C++](https://github.com/poor-kid/May-LeetCoding-Challenge/blob/master/Week%201/FirstBadVersion.cpp)|Easy|
 
 
