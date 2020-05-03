@@ -13,7 +13,7 @@ I have chosen C++ as my preferable language. I will be uploading the solutions t
 Week 1
 ------
 | # | Title | Solution | Difficulty | Time Complexity | Space Complexity |
-|---| ----- | -------- | ---------- |
+|---| ----- | -------- | ---------- | --------------- | ---------------- |
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/) | [C++](https://github.com/poor-kid/May-LeetCoding-Challenge/blob/master/Week%201/FirstBadVersion.cpp)|Easy| O(logn) | O(1) |
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [C++](https://github.com/poor-kid/May-LeetCoding-Challenge/blob/master/Week%201/Jewels_and_Stones.cpp)|Easy| O(m+n) | O(m) |
 
