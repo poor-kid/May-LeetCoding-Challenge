@@ -18,3 +18,4 @@ Week 1
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [C++](https://github.com/poor-kid/May-LeetCoding-Challenge/blob/master/Week%201/Jewels_and_Stones.cpp)|Easy| O(m+n) | O(m) |
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/) | [C++](https://github.com/poor-kid/May-LeetCoding-Challenge/blob/master/Week%201/Ransom_Note.cpp)|Easy| O(n) | O(m) |
 |476|[Number Complement](https://leetcode.com/problems/number-complement/) | [C++](https://github.com/poor-kid/May-LeetCoding-Challenge/blob/master/Week%201/Number_Complement.cpp)|Easy| O(logn) | O(1) |
+|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [C++](https://github.com/poor-kid/May-LeetCoding-Challenge/blob/master/Week%201/First_Unique_character_in_String.cpp)|Easy| O(n) | O(m) |
